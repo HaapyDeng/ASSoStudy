@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.maxplus.study.main.MainView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/actionbar_layout_tmp"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:layout_alignParentBottom="true"
+        android:background="#799dfe"
+        android:orientation="horizontal" >
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/actionbar_msg_btn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/actionbar_msg_drawable_bg"
+                android:drawableTop="@drawable/index_course"
+                android:gravity="center_horizontal"
+                android:paddingBottom="7dp"
+                android:paddingTop="5dp"
+                android:text="课程"
+                android:textColor="#FFFFFF"
+                android:textSize="10sp"
+                android:textStyle="normal" />
+
+            <ImageView
+                android:id="@+id/msg_unread_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="13dp"
+                android:layout_marginTop="3dp" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/actionbar_contact_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/actionbar_msg_drawable_bg"
+                android:drawableTop="@drawable/index_message"
+                android:gravity="center_horizontal"
+                android:paddingBottom="7dp"
+                android:paddingTop="5dp"
+                android:text="消息"
+                android:textColor="#FFFFFF"
+                android:textSize="10sp" 
+                android:textStyle="normal"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/actionbar_me_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/actionbar_msg_drawable_bg"
+                android:drawableTop="@drawable/index_myself"
+                android:gravity="center_horizontal"
+                android:paddingBottom="7dp"
+                android:paddingTop="5dp"
+                android:text="我的"
+                android:textColor="#FFFFFF"
+                android:textSize="10sp"
+                android:textStyle="normal" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <com.maxplus.study.main.ScrollControllViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/actionbar_layout_tmp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" >
+    </com.maxplus.study.main.ScrollControllViewPager>
+
+</com.maxplus.study.main.MainView>

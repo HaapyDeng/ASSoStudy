@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_cursor_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\text_cursor_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_3.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\send_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\take_photo.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\take_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_titlebar_right_btn.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\msg_titlebar_right_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\friends_sends_pictures_no.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\friends_sends_pictures_no.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sending_img.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\sending_img.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drop_down_menu_bg.9.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\drop_down_menu_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\index_icon2.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\index_icon2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_icon.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\head_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic_1.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\mic_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_1.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\send_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switchbuttonstyle.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\switchbuttonstyle.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_top_btn_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\dialog_top_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_shape.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\border_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unselected.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\unselected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\voice.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\home_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_unread.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\voice_unread.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bottom_btn_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\dialog_bottom_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_check_box_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\round_check_box_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_default.9.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\location_default.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_btn.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\back_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bottom_left_btn.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\dialog_bottom_left_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\receive_1.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\receive_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic_3.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\mic_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bottom_right_btn.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\dialog_bottom_right_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_contact_sel.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\actionbar_contact_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_check_box_style.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\default_check_box_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_menu.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\more_menu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_send_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\msg_send_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_default_style.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\dialog_default_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\keyboard.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\invisible_input_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\invisible_input_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel_record.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\cancel_record.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_input_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\chat_input_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_msg.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\actionbar_msg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_msg_sel.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\actionbar_msg_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_background.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\round_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\menu_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\receive_2.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\receive_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\business_card.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\business_card.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pictures_select_icon.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\pictures_select_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_msg_drawable_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\actionbar_msg_drawable_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_receive_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\msg_receive_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_check_box_checked.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\round_check_box_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switchbuttonstyle2.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\switchbuttonstyle2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fillet_shape.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\fillet_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_check_box_normal.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\round_check_box_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_me.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\actionbar_me.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic_2.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\mic_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\receive_msg.9.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\receive_msg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_circle.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\red_circle.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_2.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\send_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whats_new_start_btn.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\whats_new_start_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_contact.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\actionbar_contact.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_check_box_checked.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\default_check_box_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_image_btn_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\download_image_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_title_bar_right_btn_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\msg_title_bar_right_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_picture_btn_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\send_picture_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic_4.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\mic_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pick_picture.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\pick_picture.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\login_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_btn_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\back_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_error.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\send_error.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_me_sel.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\actionbar_me_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_detail.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\chat_detail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_fillet_shape.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\press_fillet_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group_chat_detail.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\group_chat_detail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\receive_3.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\receive_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_input_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\default_input_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic_5.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\mic_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\voice_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fetch_failed.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\fetch_failed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_msg.9.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\send_msg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_me_drawable_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\actionbar_me_drawable_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_default_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\toast_default_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_btn_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\register_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_contact_drawable_bg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\actionbar_contact_drawable_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expression1.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable\\expression1.png"
+    }
+]

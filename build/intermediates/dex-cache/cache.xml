@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProject\SoStudy\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\AndroidStudioProject\SoStudy\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_2a2e627fcef20be024c94cef9e6a9d81a8ed1634.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SoStudy\app\libs\jmessage-android-1.1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42e9527c5729a0378867497624f9317f9ee043b0">
+        <dex dex="D:\AndroidStudioProject\SoStudy\app\build\intermediates\pre-dexed\debug\jmessage-android-1.1.3_f1a21b4fc659acf107af3dd84f858904ef3c91d7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SoStudy\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\AndroidStudioProject\SoStudy\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_93f76864663a4ebada9d260f0554df0d3d0a95af.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidStudioProject\SoStudy\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_73b9883bfda7e9a6ae205d0e99c174e73ba72aaa.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\SoStudy\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="D:\AndroidStudioProject\SoStudy\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_46850c654e6449a0dd40e151f4ad70ae921db228.jar" />
+    </item>
+
+</items>

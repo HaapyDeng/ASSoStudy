@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_receive_voice.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\chat_item_receive_voice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pick_picture_total_list_item.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\pick_picture_total_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\loading_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_switch.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_switch.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pick_picture_detail_grid_item.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\pick_picture_detail_grid_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_title_bar.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\menu_title_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_friend_to_conv_list.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\dialog_add_friend_to_conv_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_picture_total.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_pick_picture_total.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conversation_list_item.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\conversation_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_receive_location.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\chat_item_receive_location.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conv_list.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\fragment_conv_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_base.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\dialog_base.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_record_voice.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\dialog_record_voice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_resend_msg.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\dialog_resend_msg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_conversation_list.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_conversation_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_info.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_my_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_send_voice.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\chat_item_send_voice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_send_image.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\chat_item_send_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\maintabs.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\maintabs.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_default_style.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\toast_default_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_browser.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_image_browser.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_send_location.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\chat_item_send_location.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logout.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_logout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\what_new_four.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\what_new_four.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\guide.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_delete_conv.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\dialog_delete_conv.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\what_new_one.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\what_new_one.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_picture_detail.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_pick_picture_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_down_menu.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\drop_down_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_msg_alert.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\dialog_msg_alert.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registe.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_registe.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_receive_image.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\chat_item_receive_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_c.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_receive_text.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\chat_item_receive_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\fragment_course.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\what_new_two.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\what_new_two.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_group_change.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\chat_item_group_change.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_send_text.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\chat_item_send_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_message_view.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\loading_message_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\what_new_three.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\layout\\what_new_three.xml"
+    }
+]

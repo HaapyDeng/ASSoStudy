@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\c.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\menu\\c.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\logout.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\menu\\logout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\b.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\menu\\b.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\a.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\menu\\a.xml"
+    }
+]

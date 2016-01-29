@@ -1,0 +1,379 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:2:1-200:12
+	xmlns:android
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml
+permission#com.sostudy.permission.JPUSH_MESSAGE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:12:9-60
+uses-permission#com.sostudy.permission.JPUSH_MESSAGE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:23:5-84
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:23:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:25:22-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:26:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:29:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:30:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:31:5-89
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:31:22-86
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:32:5-71
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:32:22-68
+application
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:34:5-198:19
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:38:9-41
+	android:allowBackup
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:36:9-35
+	android:icon
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:37:9-38
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:39:9-40
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:35:9-68
+service#cn.jpush.android.service.PushService
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:42:9-53:19
+	android:process
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:46:13-38
+	android:exported
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:45:13-37
+	android:enabled
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:44:13-35
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:43:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:47:13-52:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:48:17-75
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:48:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:49:17-73
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:49:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:50:17-78
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:50:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:51:17-76
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:51:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:56:9-75:20
+	android:enabled
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:58:13-35
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:57:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.sostudy
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:59:13-63:29
+	android:priority
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:59:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:60:17-94
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:60:25-91
+category#com.sostudy
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:62:17-56
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:62:27-53
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:64:13-67:29
+action#android.intent.action.USER_PRESENT
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:65:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:66:17-79
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:66:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:69:13-74:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:70:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:71:17-80
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:71:25-77
+data
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:73:17-50
+	android:scheme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:73:23-47
+activity#cn.jpush.android.ui.PushActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:78:9-88:20
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:80:13-63
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:81:13-72
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:79:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.sostudy
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:82:13-87:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:83:17-75
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:83:25-72
+category#android.intent.category.DEFAULT
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:85:17-76
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:85:27-73
+service#cn.jpush.android.service.DownloadService
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:90:9-93:40
+	android:exported
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:93:13-37
+	android:enabled
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:92:13-35
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:91:13-68
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:95:9-75
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:95:19-72
+receiver#cn.jpush.im.android.helpers.IMReceiver
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:98:9-108:20
+	android:exported
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:101:13-37
+	android:enabled
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:100:13-35
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:99:13-66
+intent-filter#cn.jpush.im.android.action.IM_RESPONSE+cn.jpush.im.android.action.NOTIFICATION_CLICK_PROXY+com.sostudy
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:102:13-107:29
+	android:priority
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:102:28-51
+action#cn.jpush.im.android.action.IM_RESPONSE
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:103:17-81
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:103:25-78
+action#cn.jpush.im.android.action.NOTIFICATION_CLICK_PROXY
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:104:17-94
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:104:25-91
+meta-data#JPUSH_CHANNEL
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:111:9-113:49
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:112:13-41
+	android:value
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:113:13-46
+meta-data#JPUSH_APPKEY
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:115:9-117:56
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:116:13-40
+	android:value
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:117:13-53
+activity#com.maxplus.study.guide.SplashActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:119:9-131:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:124:13-49
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:122:13-45
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:121:13-51
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:125:13-71
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:120:13-66
+	android:launchMode
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:123:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:126:13-130:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:127:17-69
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:127:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:129:17-77
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:129:27-74
+activity#com.maxplus.study.guide.GuideActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:132:9-136:74
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:135:13-49
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:134:13-51
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:136:13-71
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:133:13-65
+activity#com.maxplus.study.login.LoginActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:137:9-141:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:139:13-45
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:140:13-60
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:138:13-65
+activity#com.maxplus.study.maintable.MainTabActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:142:9-145:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:144:13-56
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:143:13-71
+activity#com.maxplus.study.chat.BrowserViewPagerActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:146:9-150:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:148:13-68
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:149:13-60
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:147:13-75
+activity#com.maxplus.study.friend.ConversationListFragment
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:151:9-154:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:153:13-53
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:152:13-77
+activity#com.maxplus.study.chat.PickPictureTotalActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:155:9-159:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:157:13-53
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:158:13-60
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:156:13-75
+activity#com.maxplus.study.chat.PickPictureActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:160:9-164:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:162:13-53
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:163:13-60
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:161:13-70
+activity#com.maxplus.study.me.MeFragment
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:165:9-168:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:167:13-53
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:166:13-59
+activity#com.maxplus.study.course.CourseFragment
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:169:9-172:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:171:13-53
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:170:13-67
+activity#com.maxplus.study.chat.ChatActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:173:9-177:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:175:13-56
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:176:13-60
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:174:13-63
+activity#com.maxplus.study.main.MainActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:178:9-182:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:180:13-56
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:181:13-60
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:179:13-63
+activity#com.maxplus.study.login.LogoutActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:183:9-187:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:185:13-58
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:186:13-60
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:184:13-66
+activity#com.maxplus.study.me.MyInfoActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:188:9-192:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:190:13-59
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:191:13-60
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:189:13-63
+activity#com.maxplus.study.login.RegisteActivity
+ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:193:9-197:20
+	android:label
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:195:13-59
+	android:theme
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:196:13-60
+	android:name
+		ADDED from D:\AndroidStudioProject\SoStudy\app\src\main\AndroidManifest.xml:194:13-67

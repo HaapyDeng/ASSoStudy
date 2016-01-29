@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\voice_send.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\anim\\voice_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\voice_receive.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\anim\\voice_receive.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\anim\\rotate.xml"
+    }
+]

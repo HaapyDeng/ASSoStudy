@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\address_next.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\address_next.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\index_confirm.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\index_confirm.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_setting.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\my_settings.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\my_settings.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\not_course.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\not_course.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\not_message.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\not_message.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\small_search.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\small_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\index_works.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\index_works.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\iconfont_wode.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\iconfont_wode.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\set_about.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\set_about.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\index_message.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\index_message.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\set_using.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\set_using.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\my_works.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\my_works.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\not_confirm.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\not_confirm.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\set_account.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\set_account.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\work_chapter.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\work_chapter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\my_message.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\my_message.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\regist_info.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\regist_info.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\not_works.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\not_works.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\next.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\next.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\set_tongbu.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\set_tongbu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\newapp_show.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\newapp_show.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\per_course.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\per_course.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\index_course.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\index_course.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\address_left.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\address_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\my_course.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\my_course.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\my_confirm.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\my_confirm.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\work_name.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\work_name.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\iconfont_zhuye.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\iconfont_zhuye.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\SoStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\del_info.png",
+        "source": "D:\\AndroidStudioProject\\SoStudy\\app\\src\\main\\res\\drawable-xxhdpi\\del_info.png"
+    }
+]
