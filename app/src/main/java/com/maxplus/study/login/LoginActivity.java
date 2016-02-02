@@ -212,6 +212,7 @@ public class LoginActivity extends Activity {
                         ed.putBoolean("ISCHECK", true);
                         ed.commit();
                         return;
+                        //测试2
 
                     } else if (response.has("token")) {
                         token = response.getString("token");
